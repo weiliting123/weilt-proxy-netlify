@@ -1,5 +1,5 @@
 [[redirects]]
   from = "*"
-  to = "https://wlt.dpdns.org:7777/:splat"
+  to = "http://wlt.dpdns.org:7777/:splat"
   status = 200
   force = true
